@@ -178,6 +178,7 @@ margin: 10px;
      padding: 15px;
      border-radius: 8px;
      box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+     
   }
 
 
@@ -257,10 +258,50 @@ margin: 10px;
      box-shadow: 0 5px 5px rgba(0, 0, 0, 1.0);
 
 
+
   }
 
 .button_text{
      font-family:'poppins';
      color: yellow;
+     font-size: 15px;
 
+}
+
+.footer{
+     width: 100%;
+     height: 180px;
+     float: left;
+     background-color: white;
+     align-content: center;
+}
+
+.symbol{
+     width: 10%;
+     float: left;
+     margin-left: 37.5%;
+     
+}
+.symbol2{
+     width: 10%;
+     float: left;
+     
+}
+.symbol_size{
+
+}
+
+.fol{
+     font-family: century gothic;
+     font-size: 25px;
+     text-align: center;
+}
+
+.flex_box{
+     width: 100%;
+     height: auto;
+     display: flex;
+     justify-content: center;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
 }
